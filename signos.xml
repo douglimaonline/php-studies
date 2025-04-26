@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <nome>Áries</nome>
+        <data_inicio>03-21</data_inicio>
+        <data_fim>04-19</data_fim>
+        <caracteristicas>Corajoso, determinado, confiante, entusiasmado.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Touro</nome>
+        <data_inicio>04-20</data_inicio>
+        <data_fim>05-20</data_fim>
+        <caracteristicas>Confiável, paciente, responsável, estável.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Gêmeos</nome>
+        <data_inicio>05-21</data_inicio>
+        <data_fim>06-20</data_fim>
+        <caracteristicas>Adaptável, curioso, comunicativo, versátil.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Câncer</nome>
+        <data_inicio>06-21</data_inicio>
+        <data_fim>07-22</data_fim>
+        <caracteristicas>Emocional, protetor, intuitivo, sensível.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Leão</nome>
+        <data_inicio>07-23</data_inicio>
+        <data_fim>08-22</data_fim>
+        <caracteristicas>Generoso, criativo, caloroso, líder nato.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Virgem</nome>
+        <data_inicio>08-23</data_inicio>
+        <data_fim>09-22</data_fim>
+        <caracteristicas>Analítico, prático, dedicado, detalhista.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Libra</nome>
+        <data_inicio>09-23</data_inicio>
+        <data_fim>10-22</data_fim>
+        <caracteristicas>Diplomático, sociável, justo, cooperativo.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Escorpião</nome>
+        <data_inicio>10-23</data_inicio>
+        <data_fim>11-21</data_fim>
+        <caracteristicas>Intenso, misterioso, leal, apaixonado.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Sagitário</nome>
+        <data_inicio>11-22</data_inicio>
+        <data_fim>12-21</data_fim>
+        <caracteristicas>Otimista, aventureiro, honesto, filosófico.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Capricórnio</nome>
+        <data_inicio>12-22</data_inicio>
+        <data_fim>01-19</data_fim>
+        <caracteristicas>Disciplinado, responsável, prático, ambicioso.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Aquário</nome>
+        <data_inicio>01-20</data_inicio>
+        <data_fim>02-18</data_fim>
+        <caracteristicas>Original, independente, humanitário, visionário.</caracteristicas>
+    </signo>
+    <signo>
+        <nome>Peixes</nome>
+        <data_inicio>02-19</data_inicio>
+        <data_fim>03-20</data_fim>
+        <caracteristicas>Compassivo, intuitivo, artístico, gentil.</caracteristicas>
+    </signo>
+</signos>
